@@ -6,7 +6,7 @@
 
 [![Wellison github stats](https://github-readme-stats.vercel.app/api?username=wellisonxd&theme=dark&show_icons=true)](https://github.com/wellisonxd/github-readme-stats)
 
-Hi there! My name is Wellison Maia, and I live in Brazil. Currently I am a Information System undergraduate student at IFAL. And also i've been studying Data Science and Machine Learning at Udemy.
+Hi there! My name is Wellison Maia, and I live in Brazil. Currently I am a Information System undergraduate student at IFAL. And also i've been studying Data Science and Machine Learning at Alura.
  
 Nowadays I work as a technical support of a local company, but I am looking for my dream, which is my first job in the area of Science and Data Analysis.
 
